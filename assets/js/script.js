@@ -528,16 +528,16 @@
 
 
 	// page direction
-	function directionswitch() {
-	  	if ($('.page_direction').length) {
+	// function directionswitch() {
+	//   	if ($('.page_direction').length) {
 
-	    	$('.direction_switch button').on('click', function() {
-			   $('.boxed_wrapper').toggleClass(function(){
-			      return $(this).is('.rtl, .ltr') ? 'rtl ltr' : 'rtl';
-			  })
-			});
-	  	};
-	}
+	//     	$('.direction_switch button').on('click', function() {
+	// 		   $('.boxed_wrapper').toggleClass(function(){
+	// 		      return $(this).is('.rtl, .ltr') ? 'rtl ltr' : 'rtl';
+	// 		  })
+	// 		});
+	//   	};
+	// }
 
 
 	// Scroll to a Specific Div

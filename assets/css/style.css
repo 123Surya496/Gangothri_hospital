@@ -755,7 +755,8 @@ img {
 
 .main-header .nav-toggler{
   position: absolute;
-  left: 0px;
+  left: auto;
+  right: 0px;
   top: 0px;
   display: inline-block;
   width: 130px;
