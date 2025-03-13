@@ -1004,6 +1004,7 @@ img {
 
 .main-menu .navigation{
   margin:0px;
+  padding-right: 100px;
 }
 
 .main-menu .navigation > li{
@@ -1878,7 +1879,7 @@ button.ltr {
 
 .main-footer .widget-section{
   position: relative;
-  padding: 100px 0px 0px 0px;
+  padding: 30px 0px 0px 0px;
 }
 
 .main-footer .logo-widget .footer-logo{
