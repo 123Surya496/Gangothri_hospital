@@ -55,11 +55,11 @@
 }
 
 .image_block_one .image-box .experience-box{
-  background: var(--secondary-color);
+  background: #c60000;
 }
 
 .image_block_one .image-box:before{
-  background: var(--secondary-color);
+  background: #c60000;
 }
 
 .content_block_one .content-box .inner-box .text-box .icon-box{

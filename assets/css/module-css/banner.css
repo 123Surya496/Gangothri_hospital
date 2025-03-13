@@ -17,7 +17,7 @@
 .banner-carousel .slide-item:before{
   position: absolute;
   content: '';
-  background: linear-gradient(90deg, #2C7B7D, #50AEB11A);
+  background: linear-gradient(90deg, #9d4140, #50AEB11A);
   width: 100%;
   height: 100%;
   left: 0px;
